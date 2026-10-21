@@ -21,7 +21,7 @@ public class UserProfile {
 
     /**
      * A constructor that takes in the userID and the favourite genre
-     *
+     *update
      * @param givenID the ID to assign to this user
      * @param givenGenre the users favourite genre
      */
