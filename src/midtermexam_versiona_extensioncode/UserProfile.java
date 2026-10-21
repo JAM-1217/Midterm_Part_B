@@ -11,6 +11,7 @@ package midtermexam_versiona_extensioncode;
  * code is to be used for SYST 17796 midterm exam. Students are reminded to add
  * themselves as modifiers when editing the code.
  *
+ * this is the edit comment for Question 5
  * @author John, 2026
  */
 public class UserProfile {
